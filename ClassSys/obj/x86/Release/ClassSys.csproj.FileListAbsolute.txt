@@ -1,0 +1,14 @@
+E:\cs\ClassSys\ClassSys\bin\Release\System.Data.SQLite.dll
+E:\cs\ClassSys\ClassSys\obj\x86\Release\ClassSys.csprojResolveAssemblyReference.cache
+E:\cs\ClassSys\ClassSys\obj\x86\Release\ClassSys.Form1.resources
+E:\cs\ClassSys\ClassSys\obj\x86\Release\ClassSys.Properties.Resources.resources
+E:\cs\ClassSys\ClassSys\obj\x86\Release\ClassSys.csproj.GenerateResource.Cache
+E:\cs\ClassSys\ClassSys\bin\Release\学生选课管理系统.exe
+E:\cs\ClassSys\ClassSys\bin\Release\学生选课管理系统.pdb
+E:\cs\ClassSys\ClassSys\obj\x86\Release\学生选课管理系统.exe
+E:\cs\ClassSys\ClassSys\obj\x86\Release\学生选课管理系统.pdb
+E:\cs\ClassSys\ClassSys\obj\x86\Release\ClassSys.student.resources
+E:\cs\ClassSys\ClassSys\obj\x86\Release\ClassSys.course.resources
+E:\cs\ClassSys\ClassSys\obj\x86\Release\ClassSys.teacher.resources
+E:\cs\ClassSys\ClassSys\obj\x86\Release\ClassSys.department.resources
+E:\cs\ClassSys\ClassSys\obj\x86\Release\ClassSys.sct.resources

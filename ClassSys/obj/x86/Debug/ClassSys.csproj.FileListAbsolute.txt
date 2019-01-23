@@ -1,0 +1,7 @@
+E:\cs\ClassSys\ClassSys\bin\Debug\ClassSys.exe
+E:\cs\ClassSys\ClassSys\bin\Debug\ClassSys.pdb
+E:\cs\ClassSys\ClassSys\obj\x86\Debug\ClassSys.Form1.resources
+E:\cs\ClassSys\ClassSys\obj\x86\Debug\ClassSys.Properties.Resources.resources
+E:\cs\ClassSys\ClassSys\obj\x86\Debug\ClassSys.csproj.GenerateResource.Cache
+E:\cs\ClassSys\ClassSys\obj\x86\Debug\ClassSys.exe
+E:\cs\ClassSys\ClassSys\obj\x86\Debug\ClassSys.pdb
